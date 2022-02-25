@@ -6,7 +6,7 @@ import { BrowserRouter } from "react-router-dom/cjs/react-router-dom.min";
 
 ReactDOM.render(
   <BrowserRouter>
-    <App />
+      <App />
   </BrowserRouter>,
   document.getElementById("root")
 );
